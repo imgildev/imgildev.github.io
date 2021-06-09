@@ -1,10 +1,10 @@
-![imagen de perfil](./assets/images/profile.png)
-
 > ### Menú
 >
 > [¿Quién soy?](./about.md) <br/>
 > [Te ofrezco](./services.md) <br/>
 > [Contáctame](./contact.md) <br/>
+
+![imagen de perfil](./assets/images/profile.png)
 
 # Hola 👋, soy Manuel Gil
 
