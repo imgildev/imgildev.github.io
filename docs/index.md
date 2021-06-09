@@ -6,7 +6,7 @@
 
 ![imagen de perfil](./assets/images/profile.png)
 
-# Hola 👋, soy Manuel Gil
+# Hola 👋, soy Manuel Gil 🦊
 
 ## Dev & Content Creator
 
