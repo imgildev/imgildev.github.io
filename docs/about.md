@@ -2,7 +2,7 @@
 
 > ### Menú
 >
-> [¿Quién soy?](./about.md) <br/>
+> [Inicio](./index.md) <br/>
 > [Te ofrezco](./services.md) <br/>
 > [Contáctame](./contact.md) <br/>
 

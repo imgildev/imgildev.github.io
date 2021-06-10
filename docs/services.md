@@ -1,7 +1,7 @@
 > ### Menú
 >
+> [Inicio](./index.md) <br/>
 > [¿Quién soy?](./about.md) <br/>
-> [Te ofrezco](./services.md) <br/>
 > [Contáctame](./contact.md) <br/>
 
 # TE OFREZCO
