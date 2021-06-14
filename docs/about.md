@@ -14,11 +14,11 @@
 
 Seguro has respondido si a una o más de estás preguntas y es la razón por la que estás aquí.
 
-Como co-fundador y miembro de las comunidades Undefined Devs y Paradigma Indie he participado en cumbres, charlas, talleres y bootcamps enseñando a estudiantes y desarrolladores diferentes conceptos técnicos y no técnicos que hacen parte del día a día de la industría tech.
+Como co-fundador y miembro de las comunidades Undefined Devs y Paradigma Indie he participado en cumbres, charlas, talleres y bootcamps enseñando a estudiantes y desarrolladores diferentes conceptos técnicos y no técnicos que hacen parte del día a día de la industria tech.
 
 A parte de las transmisiones en vivo en mi canal de YouTube donde el invitado es una parte importante, también hemos trabajado en el podcast de la comunidad Paradigma Indie en donde nos divertimos hablando de temas de actualidad e intentamos entretener a nuestro publico al mismo tiempo que nos divertimos con nuestras opiniones.
 
-## ¿Cómo fue que iniciamos?
+## ¿Cómo inicie?
 
 En el año 2015 publique la primera versión de una herramienta para restablecer las configuraciones de Windows Update ([Reset Windows Update Tool](https://www.wureset.com/)), 5 años después empezamos a crear contenidos gracias al apoyo de la comunidad Undefined Devs.
 
@@ -34,9 +34,7 @@ En el año 2015 publique la primera versión de una herramienta para restablecer
 
 - [Repositorios públicos - Codehouse Academy](https://www.youtube.com/watch?v=l1CG7ZJ2gNs)
 
-Súmate ya misma a esta comunidad y no te pierdas de ninguno de los contenidos que hacemos para ti.
-
-### Manuel Gil
+## Súmate ya mismo a la comunidad
 
 - [Twitter](https://twitter.com/imgildev)
 - [GitHub](https://github.com/ManuelGil)

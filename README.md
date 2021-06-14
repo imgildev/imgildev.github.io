@@ -2,9 +2,9 @@
 
 [![video de youtube](./docs/assets/images/video.gif)](https://www.youtube.com/playlist?list=PLFMJZ4VFmG6NX9pAfHR8CDA0hMyGjZ_Y-)
 
-Bienvenido al taller práctico de la comunidad de Paradigma Indie.
+🐱‍👓 Este repositorio fue desarrollado dentro del taller práctico de Git y GitHub para la comunidad de Paradigma Indie.
 
-En el taller desarrollamos este proyecto o página web para mostrar de forma práctica el funcionamiento de Git y GitHub
+En el taller desarrollamos este proyecto con el fin de mostrar de forma práctica el funcionamiento de Git y GitHub.
 
 > ### Contenido
 >
@@ -49,3 +49,27 @@ En el taller desarrollamos este proyecto o página web para mostrar de forma pr�
 > > [30:14](https://www.youtube.com/watch?v=FKNMsJtIoyk=1814s) Watch, Star y Fork <br>
 > > [31:10](https://www.youtube.com/watch?v=FKNMsJtIoyk=1870s) Pull Request <br>
 > > [36:38](https://www.youtube.com/watch?v=FKNMsJtIoyk=2198s) Despedida <br>
+>
+> [Parte 3](https://www.youtube.com/watch?v=x2l6jvBZLCs)
+> > [00:00](https://www.youtube.com/watch?v=x2l6jvBZLCs=0s) Presentación <br>
+> > [00:58](https://www.youtube.com/watch?v=x2l6jvBZLCs=58s) Issues <br>
+> > [06:45](https://www.youtube.com/watch?v=x2l6jvBZLCs=405s) Projects <br>
+> > [09:08](https://www.youtube.com/watch?v=x2l6jvBZLCs=548s) Wiki <br>
+> > [13:12](https://www.youtube.com/watch?v=x2l6jvBZLCs=792s) Configuraciones <br>
+> > [13:52](https://www.youtube.com/watch?v=x2l6jvBZLCs=832s) Tag y Release <br>
+> > [18:33](https://www.youtube.com/watch?v=x2l6jvBZLCs=1113s) Versionamiento Semántico <br>
+> > [21:28](https://www.youtube.com/watch?v=x2l6jvBZLCs=1288s) CHANGELOG.md <br>
+> > [28:29](https://www.youtube.com/watch?v=x2l6jvBZLCs=1709s) Badges <br>
+> > [43:23](https://www.youtube.com/watch?v=x2l6jvBZLCs=2603s) Despedida <br>
+
+
+## Diapositivas
+
+- [Parte 1](https://www.canva.com/design/DAEbrgXmM7E/2Q1XwqnQg52SebX45aLmow/view?utm_content=DAEbrgXmM7E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Parte 2](https://www.canva.com/design/DAEg58n5MVg/sI2Gx7pDldMBCTWi2Mhj6A/view?utm_content=DAEg58n5MVg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Parte 3](https://www.canva.com/design/DAEhGiiwDsA/atR638aTINmTxKWN1GNZEg/view?utm_content=DAEhGiiwDsA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+## Maestro
+
+- **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
+

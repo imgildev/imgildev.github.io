@@ -6,7 +6,7 @@
 
 # CONTÁCTAME
 
-¿Quieres contactarme para ser conferencista? ¿Quieres una asesoria? estaremos contentos que nos escribas 😁
+¿Quieres contactarme para ser conferencista? ¿Quieres una asesoría? estaremos contentos que nos escribas 😁
 
 Las redes sociales de la comunidad de Paradigma Indie están abiertas por si deseas participar en alguno de nuestros lives en youtube, en nuestros podcast o en los talleres que estaremos brindando en nuestro Discord.
 
