@@ -8,6 +8,10 @@ En el taller desarrollamos este proyecto con el fin de mostrar de forma práctic
 
 > ### Contenido
 >
+> [Instalar GIT en Windows](https://www.youtube.com/watch?v=HZ4IjC3H2xw)
+>
+> [Cómo configurar GIT](https://www.youtube.com/watch?v=ZOsAfmnBq60)
+>
 > [Parte 1](https://www.youtube.com/watch?v=9Gosip42Q0M)
 > > [00:00](https://www.youtube.com/watch?v=9Gosip42Q0M&t=0s) Presentación <br>
 > > [00:40](https://www.youtube.com/watch?v=9Gosip42Q0M&t=40s) ¿Qué es Git? <br>
@@ -61,13 +65,21 @@ En el taller desarrollamos este proyecto con el fin de mostrar de forma práctic
 > > [21:28](https://www.youtube.com/watch?v=x2l6jvBZLCs=1288s) CHANGELOG.md <br>
 > > [28:29](https://www.youtube.com/watch?v=x2l6jvBZLCs=1709s) Badges <br>
 > > [43:23](https://www.youtube.com/watch?v=x2l6jvBZLCs=2603s) Despedida <br>
-
+>
+> [Extras](https://www.youtube.com/watch?v=qD3z_kH5AG4)
+> > [00:00](https://www.youtube.com/watch?v=qD3z_kH5AG4=0s) Presentación <br>
+> > [00:34](https://www.youtube.com/watch?v=qD3z_kH5AG4=34s) Sincronizar un Fork <br>
+> > [03:14](https://www.youtube.com/watch?v=qD3z_kH5AG4=194s) Cambiar la url de origin <br>
+> > [04:41](https://www.youtube.com/watch?v=qD3z_kH5AG4=281s) Utilizar HTML en imágenes <br>
+> > [07:15](https://www.youtube.com/watch?v=qD3z_kH5AG4=435s) Recomendaciones <br>
+> > [07:51](https://www.youtube.com/watch?v=qD3z_kH5AG4=471) Despedida <br>
 
 ## Diapositivas
 
 - [Parte 1](https://www.canva.com/design/DAEbrgXmM7E/2Q1XwqnQg52SebX45aLmow/view?utm_content=DAEbrgXmM7E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Parte 2](https://www.canva.com/design/DAEg58n5MVg/sI2Gx7pDldMBCTWi2Mhj6A/view?utm_content=DAEg58n5MVg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Parte 3](https://www.canva.com/design/DAEhGiiwDsA/atR638aTINmTxKWN1GNZEg/view?utm_content=DAEhGiiwDsA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Extras](https://www.canva.com/design/DAEhfUmdLmM/xX_xL5EHrcWX02QEJfuDuw/view?utm_content=DAEhfUmdLmM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Maestro
 
