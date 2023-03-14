@@ -3,6 +3,7 @@
 > ### Menú
 >
 > [Inicio](./index.md) <br/>
+> [¿Quién soy?](./about.md) <br/>
 > [Te ofrezco](./services.md) <br/>
 > [Contáctame](./contact.md) <br/>
 
@@ -10,17 +11,13 @@
 
 ## Desarrollando comunidad a través de soluciones para todos
 
-¿Te interesa el desarrollo? ¿Quieres escuchar la opinión de personas qué trabajan en la industria tech al respecto de un tema en especifico? ¿Quieres conocer más acerca de comunidades enfocadas en el desarrollo? 🤔
+¿Te interesa el desarrollo? ¿Quieres escuchar la opinión de personas que trabajan en la industria tecnológica sobre temas específicos? ¿Te gustaría conocer más sobre comunidades enfocadas en el desarrollo? 🤔
 
-Seguro has respondido si a una o más de estás preguntas y es la razón por la que estás aquí.
+Si has respondido "sí" a alguna de estas preguntas, estás en el lugar correcto.
 
-Como co-fundador y miembro de las comunidades Undefined Devs y Paradigma Indie he participado en cumbres, charlas, talleres y bootcamps enseñando a estudiantes y desarrolladores diferentes conceptos técnicos y no técnicos que hacen parte del día a día de la industria tech.
+Como co-fundador y miembro de las comunidades Undefined Devs y Paradigma Indie, he participado en cumbres, charlas, talleres y bootcamps para enseñar a estudiantes y desarrolladores diferentes conceptos técnicos y no técnicos que son parte del día a día de la industria tecnológica.
 
-A parte de las transmisiones en vivo en mi canal de YouTube donde el invitado es una parte importante, también hemos trabajado en el podcast de la comunidad Paradigma Indie en donde nos divertimos hablando de temas de actualidad e intentamos entretener a nuestro publico al mismo tiempo que nos divertimos con nuestras opiniones.
-
-## ¿Cómo inicie?
-
-En el año 2015 publique la primera versión de una herramienta para restablecer las configuraciones de Windows Update ([Reset Windows Update Tool](https://www.wureset.com/)), 5 años después empezamos a crear contenidos gracias al apoyo de la comunidad Undefined Devs.
+Además de las transmisiones en vivo en mi canal de YouTube, donde el invitado juega un papel importante, también hemos trabajado en el podcast de la comunidad Paradigma Indie, donde nos divertimos hablando de temas actuales e intentamos entretener a nuestro público mientras compartimos nuestras opiniones.
 
 ## Algunos eventos y participaciones a en los que hemos estado
 
@@ -34,8 +31,8 @@ En el año 2015 publique la primera versión de una herramienta para restablecer
 
 - [Repositorios públicos - Codehouse Academy](https://www.youtube.com/watch?v=l1CG7ZJ2gNs)
 
-## Súmate ya mismo a la comunidad
+- [Lo que todo proyecto en GitHub debe tener !](https://www.youtube.com/watch?v=AH2oeNVW9Ig)
 
-- [Twitter](https://twitter.com/imgildev)
-- [GitHub](https://github.com/ManuelGil)
-- [Youtube](https://www.youtube.com/c/imgildev)
+- [¿Qué es un producto mínimo viable? - Startups y emprendimiento | Manuel Gil (@imgildev)](https://www.youtube.com/watch?v=sW-TzhZTNXM)
+
+- [CodeIgniter se modernizó](https://www.youtube.com/watch?v=mmOMrquXRaA)

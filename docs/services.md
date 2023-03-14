@@ -1,27 +1,22 @@
+![banner](./assets/images/header.png)
+
 > ### Menú
 >
 > [Inicio](./index.md) <br/>
 > [¿Quién soy?](./about.md) <br/>
+> [Te ofrezco](./services.md) <br/>
 > [Contáctame](./contact.md) <br/>
 
 # TE OFREZCO
 
-Como desarrollador web, creador de contenidos e instructor he desarrollado herramientas tanto gratuitas como de pago para el sector de la educación 🤓.
+Como desarrollador web e instructor, me he dedicado a crear herramientas y recursos tanto gratuitos como de pago para el sector educativo. Además, ofrezco servicios de asesoramiento en la implementación de tecnologías y en la solución de problemas para plataformas web.
 
-También ofrezco asesoría en la implementación de tecnologías y solución de problemas para plataformas tanto en Windows como en Linux.
+Me apasiona reducir las brechas tecnológicas y de género, y por ello, me esfuerzo en proporcionar diversos materiales audiovisuales y de código para enriquecer la comunidad de la industria tecnológica.
 
-Estoy comprometido con reducir las brechas tanto tecnológicas como de genero por lo cual intento presentar diversos materiales tanto audiovisuales como en código para dar valor a la comunidad al rededor de la industria tech.
+Actualmente, ofrezco tres servicios principales:
 
-Por el momento estarían disponibles 3 de mis servicios:
+- Ponente o anfitrión en charlas tanto presenciales como virtuales.
+- Asesoramiento en la implementación de plataformas web y modelos de negocio.
+- Desarrollo de soluciones tecnológicas personalizadas para empresas y organizaciones.
 
-- Colaboración en charlas a través de youtube sobre GitHub, PHP y metodologías ágiles.
-- Anfitrión en charlas que se puedan impartir a través de mi canal en youtube.
-- Asesoría en el desarrollo de aplicaciones web bajo la estructura de PHP.
-
-A pesar que he desarrollado aplicaciones de escritorio en C++ y Java, y también aplicaciones móviles en Android Studio, en la actualidad he estado enfocado en aplicaciones desarrolladas en PHP (con o sin frameworks) razón por la cual he logrado una mayor especialización en esta área.
-
-Si deseas brindar alguna charla en mi canal puedes llenar el siguiente formulario de google [https://forms.gle/jFFRw4WZKFdQG63eA](https://forms.gle/jFFRw4WZKFdQG63eA) o si deseas invitarme a una charla puedes escribirme a través de mi twitter [@imgildev](https://twitter.com/imgildev) en donde intentaré brindar una respuesta a más tardar de 24 a 48 horas.
-
-En caso de requerir una asesoría el costo de la misma es de 80 dólares la hora.
-
-**PDTA:** Toda solicitud referente a la herramienta "Reset Windows Update Tool" solo será procesada en el twitter de [@wureset](https://twitter.com/wureset).
+Si deseas contratarme para alguna de estas actividades, puedes contactarme a través de mi [calendario](https://calendly.com/d/2b4-z28-gvg). Me comprometo a responder en un plazo máximo de 24 a 48 horas. ¡Espero poder trabajar contigo pronto!
