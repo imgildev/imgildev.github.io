@@ -33,6 +33,6 @@ Además de las transmisiones en vivo en mi canal de YouTube, donde el invitado j
 
 - [Lo que todo proyecto en GitHub debe tener !](https://www.youtube.com/watch?v=AH2oeNVW9Ig)
 
-- [¿Qué es un producto mínimo viable? - Startups y emprendimiento | Manuel Gil (@imgildev)](https://www.youtube.com/watch?v=sW-TzhZTNXM)
+- [¿Qué es un producto mínimo viable? - Startups y emprendimiento](https://www.youtube.com/watch?v=sW-TzhZTNXM)
 
 - [CodeIgniter se modernizó](https://www.youtube.com/watch?v=mmOMrquXRaA)
