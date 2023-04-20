@@ -1,5 +1,3 @@
-![banner](./assets/images/header.png)
-
 > ### Menú
 >
 > [Inicio](./index.md) <br/>
